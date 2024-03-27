@@ -248,7 +248,7 @@ body{
 .our,.us,.pricing{
     background-color:rgba(250, 219, 42, 0.2); 
 } 
-.our-container{
+.our-container,.data-container{
     width:90%;
     margin:auto;
 }
@@ -873,10 +873,6 @@ body{
 .data{
     background-color:rgba(247,210,0,0.3);
 }
-.data-container{
-    width:100%;
-    margin:auto;
-}
 .data-info{
     width:100%;
     height:31vh;
@@ -949,7 +945,7 @@ body{
 .data-contact-div a,.data-contact-div p,.data-contact-div i{
     float:left;
 }
-.data-contact-div a,.data-contact-div p{
+.data-contact-div p{
     font:normal bold 15px "Roboto", sans-serif;
 }
 .data-contact-div a{
@@ -1008,7 +1004,6 @@ body{
 .data-div{
     width:100%;
     text-align:center;
-    margin-bottom:20px;
     text-transform:capitalize;
     word-spacing:10px;
     font:normal 400 22px "Bebas Neue", sans-serif;
