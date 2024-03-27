@@ -676,8 +676,8 @@ body{
     margin-top:20px;
     line-height:25px;
 }
-.point-content:hover {
-    top:20px;
+.point-content:hover{
+    margin-top:100px;
 }
 .point-content:hover .point-img{
     width:120px;
