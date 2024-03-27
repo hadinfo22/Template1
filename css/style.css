@@ -147,7 +147,7 @@ body{
 .we,.our,.what{
     margin:150px 0px;
 } 
-.we-container,.what-container,.us-container,.pricing-container,.meet-container{
+.we-container,.what-container,.us-container,.pricing-container,.meet-container,.info-container,.point-container,.recent-container{
     width:80%;
     margin:auto;
 }
@@ -487,12 +487,8 @@ body{
 .us-ulist li:hover{
     background-color:#f7d200;
 }
-.info-container,.point-container,.recent-container{
-    width:100%;
-    margin:auto;
-}
 .info-container-content{
-    width:inherit;
+    width:100%;
     height:60vh;
     background:url(../images/aloe3.jpg) fixed;
     background-size:cover;
@@ -620,7 +616,7 @@ body{
     color:white;
 }
 .point{
-    width:inherit;
+    width:100%;
     height:60vh;
     background:url(../images/aloe4.jpg) fixed;
     background-size:cover;
